@@ -1,3 +1,3 @@
 Я есть Мухаметханов Фарид. 
 
-[me](picture.jpg)
+![me](picture.jpg)
